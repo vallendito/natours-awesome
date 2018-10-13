@@ -7,6 +7,7 @@ Build website using sass with 7-1 pattern and BEM methodology
 #### Build With
 - HTML
 - CSS (SASS)
+- Custom Grid
 
 #### Architecture
 - 7-1 Pattern
